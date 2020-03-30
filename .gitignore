@@ -3,6 +3,10 @@ detritus/
 dev_notes.md
 *.csv
 *.json
+*.dict
+*.mm
+*.mm.index
+tree_annot.pdf
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
